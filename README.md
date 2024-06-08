@@ -18,11 +18,11 @@ Follow these steps to set up and run the project locally:
 ### 1.Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/social-networking-api.git
+git clone <repository-url>
 ```
 ### 2.Navigate to the project directory:
 ```bash
-cd social-networking-api
+cd social-network
 ```
 ### 3.Create a virtual environment and activate it:
 ```bash
