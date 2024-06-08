@@ -62,6 +62,8 @@ Access the API at `http://localhost:8000/api/`.
 ### Authentication
 * User authentication is handled using token-based authentication.
 * Users can obtain an authentication token by logging in with their email and password.
+* <strong>Set Authorization Header:</strong>
+ In your subsequent requests, set the Authorization header to `Token <your-token>`.
 
 # Examples for each endpoint
 
